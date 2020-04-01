@@ -3,4 +3,5 @@
 * Webpack 4
 * Babel 7
 * Hot Module Replacement
+* Service Worker
 
